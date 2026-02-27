@@ -1,7 +1,9 @@
 ## Hi, My name is Furo 👋
 
 🎓 I'm final-year Bachelor’s student in IT and Informatics at the University of South-Eastern Norway.
+
 💡I enjoy solving problems, working in teams, and building structured applications that create real value.
+
 📊I am an engaged and motivated developer who takes ownership of my work and approaches new challenges with curiosity and structure.
 
 ## 🛠 Technical Foundation
