@@ -35,8 +35,8 @@ Throughout my studies, I have gained foundational experience working with:
 
 
 ## 📫 Contact
-- GitHub: https://github.com/furo1010
-- LinkedIn: ((https://www.linkedin.com/in/furo-muktar-6b8883200/)
+- Mail: furomuktar@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/furo-muktar-6b8883200/
 
 
 
